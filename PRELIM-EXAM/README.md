@@ -105,4 +105,3 @@ The application is interactive. During long sorting processes, you may use:
 
 ## 📝 Logging
 All benchmark results are automatically appended to `logs/benchmark.log` for data integrity and historical tracking.
-```
